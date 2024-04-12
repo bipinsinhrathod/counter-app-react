@@ -15,6 +15,7 @@ function App() {
     // Check if count is greater than 0 before decrementing
     if (count > 0) {
       setCount(count - 1)
+      
     }
   }
 
